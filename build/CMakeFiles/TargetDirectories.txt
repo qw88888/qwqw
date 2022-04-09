@@ -1,0 +1,3 @@
+/home/qw/text/ir_ting1C_project/build/CMakeFiles/rebuild_cache.dir
+/home/qw/text/ir_ting1C_project/build/CMakeFiles/edit_cache.dir
+/home/qw/text/ir_ting1C_project/build/CMakeFiles/sample.dir
